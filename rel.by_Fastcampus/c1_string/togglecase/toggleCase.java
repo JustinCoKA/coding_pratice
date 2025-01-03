@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 
-public class ToggleCase {
+public class toggleCase {
 
     public static void main(String[] args) {
 
